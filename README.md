@@ -12,3 +12,6 @@ This repository aims to structure the develpoment of a Machine Learning operatio
 - Models: models saved as .pkl
 - Notebooks: general place for NDD
 - Src: store .py files
+
+# Repository template link
+https://github.com/RodrigoGCoelhoo/23-2-mlops-template
